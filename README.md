@@ -2,12 +2,12 @@
 
 Comparative Analysis of Machine Learning Classification Models for Anti-Money Laundering Detection
 
-MSc Data Analytics Dissertation
-Berlin School of Business and Innovation (BSBI)
-In affiliation with the University for the Creative Arts (UCA)
-Author: Muhammad Fauzan
-Supervisor: Dr. Christos Lemonakis
-Submission Year: 2026
+MSc Data Analytics Dissertation,
+Berlin School of Business and Innovation (BSBI),
+In affiliation with the University for the Creative Arts (UCA).
+- Author: Muhammad Fauzan
+- Supervisor: Dr. Christos Lemonakis
+- Submission Year: 2026
 
 # Overview
 

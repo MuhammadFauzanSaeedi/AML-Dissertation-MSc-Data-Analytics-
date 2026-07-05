@@ -1,5 +1,13 @@
 # AML-Dissertation-MSc-Data-Analytics-
-Comparative analysis of six ML classification models (Logistic Regression, Decision Tree, Random Forest, XGBoost, Neural Network, SVM) for AML detection using the IBM synthetic dataset, with primary practitioner survey — MSc Data Analytics dissertation, BSBI Berlin 2026.
+
+Comparative Analysis of Machine Learning Classification Models for Anti-Money Laundering Detection
+
+MSc Data Analytics Dissertation
+Berlin School of Business and Innovation (BSBI)
+In affiliation with the University for the Creative Arts (UCA)
+Author: Muhammad Fauzan
+Supervisor: Dr. Christos Lemonakis
+Submission Year: 2026
 
 # Overview
 
